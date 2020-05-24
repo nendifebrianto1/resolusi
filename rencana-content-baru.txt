@@ -2,6 +2,8 @@ Rencana Video Content
 -Javascript
 *ES6
 *Framework Javascript
-- Materi Stuktur Data
+  ^Angular
+  ^React
 -PHP Framework
+  ^Laravel
 -membuat vlog
