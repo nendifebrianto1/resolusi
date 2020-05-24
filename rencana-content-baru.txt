@@ -3,6 +3,7 @@ Rencana Video Content
 *ES6
 *Framework Javascript
   ^ Vue
+  ^React 
 - Materi Stuktur Data
 -PHP Framework
   ^ Laravel
