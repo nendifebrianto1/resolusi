@@ -1,4 +1,7 @@
 Rencana Video Content
 -Javascript
+*ES6
+*Framework Javascript
+
 -PHP Framework
 -membuat vlog
