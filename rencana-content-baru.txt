@@ -1,0 +1,4 @@
+Rencana Video Content
+-Javascript
+-PHP Framework
+-membuat vlog
